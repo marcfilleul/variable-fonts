@@ -4,9 +4,15 @@ All the variable fonts found in Google Fonts as of today (March 18th, 2020) + Mo
 
 - optimized for Latin/European languages (latin subset with [glyphhanger](https://github.com/filamentgroup/glyphhanger))
 
-## Coming Soon
+## Example files
 
-A simple working example to showcase how to easily setup and use variable fonts in your website is on his way.
+A basic example to show how to use variable fonts the easiest way.
+
+Nothing fancy here but here are some key points:
+
+- It doesn't work on IE and other old browsers that don't support CSS Variables
+- This example works for variable fonts with 2 styles (normal and italic)
+- If you use a variable font with no italic style file, you'll have a fake italic
 
 ## Support
 
