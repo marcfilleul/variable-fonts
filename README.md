@@ -1,6 +1,6 @@
 # A library of variable fonts optimized and ready to use
 
-All the variable fonts found in Google Fonts as of today (March 18th, 2020)
+All the variable fonts found in Google Fonts as of today (March 18th, 2020) + Montserrat
 
 - optimized for Latin/European languages (latin subset with [glyphhanger](https://github.com/filamentgroup/glyphhanger))
 
