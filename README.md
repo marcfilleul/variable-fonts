@@ -1,10 +1,12 @@
 # A library of variable fonts optimized and ready to use
 
-All the variable fonts found in Google Fonts as of today (March 18th, 2020) + Montserrat
+All the variable fonts found in Google Fonts as of today (22 March 2020) + Montserrat
 
 - optimized for Latin/European languages (latin subset with [glyphhanger](https://github.com/filamentgroup/glyphhanger))
 
 ## Example files
+
+[Netlify demo here](https://variable-fonts.netlify.com/)
 
 In the example folder, you'll find a basic example to show how to use variable fonts the easiest way.
 
