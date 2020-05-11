@@ -24,4 +24,4 @@ It's also easier to setup and the `font-style: italic` css property works as exp
 
 ## Support
 
-If you want to thank me or support my work, you can [buy me a coffee](https://www.buymeacoffee.com/willdante) 😉
+If you want to thank me or support my work, you can [buy me a coffee](https://www.buymeacoffee.com/marcfilleul) 😉
